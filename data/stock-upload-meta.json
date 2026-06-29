@@ -1,14 +1,14 @@
 {
-  "uploaded_at": "2026-06-29T09:08:34.548Z",
+  "uploaded_at": "2026-06-29T12:47:03.696Z",
   "files": [
     {
       "name": "stock_mscc.CSV",
-      "size": 337644,
-      "source_size": 296306,
+      "size": 336818,
+      "source_size": 295522,
       "encoding": "Windows-874 -> UTF-8",
-      "rows": 2033,
-      "skus": 1985,
-      "updated_at": "2026-06-29T09:08:34.548Z"
+      "rows": 2026,
+      "skus": 1978,
+      "updated_at": "2026-06-29T12:47:03.696Z"
     },
     {
       "name": "stock_mscc_warehouse.CSV",
@@ -17,7 +17,7 @@
       "encoding": "Windows-874 -> UTF-8",
       "rows": 2253,
       "skus": 2252,
-      "updated_at": "2026-06-29T09:08:34.548Z"
+      "updated_at": "2026-06-29T12:47:03.696Z"
     },
     {
       "name": "stock_beh_hq.CSV",
@@ -26,7 +26,7 @@
       "encoding": "Windows-874 -> UTF-8",
       "rows": 3059,
       "skus": 3059,
-      "updated_at": "2026-06-29T09:08:34.548Z"
+      "updated_at": "2026-06-29T12:47:03.696Z"
     },
     {
       "name": "stock_beh_warehouse.CSV",
@@ -35,7 +35,7 @@
       "encoding": "Windows-874 -> UTF-8",
       "rows": 1378,
       "skus": 1363,
-      "updated_at": "2026-06-29T09:08:34.548Z"
+      "updated_at": "2026-06-29T12:47:03.696Z"
     }
   ]
 }
